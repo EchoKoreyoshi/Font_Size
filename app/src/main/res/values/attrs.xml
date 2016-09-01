@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="isFont">
+        <attr name="fontSize_1" format="dimension"/>
+        <attr name="fontSize_2" format="dimension"/>
+        <attr name="fontSize_3" format="dimension"/>
+    </declare-styleable>
+
+</resources>
