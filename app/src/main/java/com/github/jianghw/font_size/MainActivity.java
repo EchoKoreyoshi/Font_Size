@@ -27,6 +27,7 @@ public class MainActivity extends BaseActivity {
 
                 Intent intent = new Intent(MainActivity.this, Font.class);
                 startActivity(intent);
+                finish();
             }
         });
     }
